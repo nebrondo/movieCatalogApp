@@ -11,7 +11,7 @@ the course.
 
 STEPS TO RUN THE PROJECT:
 
-1. Extract the .zip file contents to a local directory
+1. Clone the repo from https://github.com/nebrondo/movieCatalogApp.git
 2. Open a command line terminal
 3. Navigate to the directory where the project was extracted
 4. Start a web server using python: python -m SimpleHTTPServer 8080
